@@ -1,6 +1,8 @@
 p {
     background: url("../image.jpeg");
     -webkit-background-clip: text;
+    background-position: top;
+    background-repeat: no-repeat;
 }
 
 body {
