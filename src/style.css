@@ -2,3 +2,7 @@ p {
     background: url("../image.jpeg");
     -webkit-background-clip: text;
 }
+
+body {
+    background: black;
+}
